@@ -2,6 +2,8 @@
 
 A SvelteKit website, rendered on the server with the Node adapter, that reads its pages from [CMS Orbit](https://bifrostorbit.com/products/cms-orbit/), the headless CMS in Bifröst Orbit. It is the finished project from the [SvelteKit quickstart](https://docs.bifrostorbit.com/cms/developers/quickstart-sveltekit/): every published page at its own address, your own Svelte components for the blocks editors place, drafts in the live preview, and a signed webhook that clears cached pages when editors publish.
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/bifrost-orbit/cms-starter-sveltekit?quickstart=1)
+
 ## Set up
 
 1. **Create your copy.** Select **Use this template** on GitHub, or run `gh repo create my-website --template bifrost-orbit/cms-starter-sveltekit --private --clone`.
